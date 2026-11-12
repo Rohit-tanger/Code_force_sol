@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 8 |
+| 15 | 10 |
 
 ---
 
@@ -15,9 +15,11 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (4)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (8)
-- [math](#math) (2)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (9)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
 
@@ -45,11 +47,24 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
 ### implementation
 
@@ -63,6 +78,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
 ### math
 
@@ -70,6 +86,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
 ### sortings
 
