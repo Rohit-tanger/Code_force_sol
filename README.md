@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 10 |
+| 16 | 11 |
 
 ---
 
@@ -17,8 +17,9 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
+- [dp](#dp) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
@@ -59,6 +60,12 @@
 |---|---------|------------|----------|
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -75,6 +82,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
