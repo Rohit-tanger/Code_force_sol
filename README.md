@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 12 |
+| 20 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
@@ -40,6 +40,7 @@
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.java) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2259/B%20-%20Minus%20Two/solution.java) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2290/A%20-%20Three%20Piles/solution.java) |
+| 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.java) |
 
 ### brute force
 
