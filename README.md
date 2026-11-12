@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 11 |
+| 18 | 12 |
 
 ---
 
@@ -18,11 +18,12 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
-- [greedy](#greedy) (2)
-- [implementation](#implementation) (11)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (12)
 - [math](#math) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (2)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -72,6 +73,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
 ### implementation
@@ -84,6 +86,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.java) |
@@ -111,6 +114,12 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 
 ---
 
