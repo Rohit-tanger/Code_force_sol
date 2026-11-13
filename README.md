@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 12 |
+| 21 | 12 |
 
 ---
 
@@ -18,12 +18,12 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (12)
 - [math](#math) (3)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (2)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -77,6 +77,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ### implementation
 
@@ -109,6 +110,7 @@
 |---|---------|------------|----------|
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
 | 599C | [Day at the Beach](https://codeforces.com/contest/599/problem/C) | 1600 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/599/C%20-%20Day%20at%20the%20Beach/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ### strings
 
@@ -122,6 +124,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ---
 
