@@ -1,48 +1,24 @@
-import java.io.*;
-import java.util.*;
  
-public class Main {
-    public static void main(String[] args) throws Exception {
-        FastScanner fs = new FastScanner(System.in);
-        PrintWriter out = new PrintWriter(System.out);
+import java.util.Scanner;
  
-        int t = fs.nextInt();
-        while (t-- > 0) {
-            String s = fs.next().trim();
-            if (s.length() <= 10) {
-                out.println(s);
-            } else {
-            out.println("" + s.charAt(0) + (s.length() - 2) + s.charAt(s.length() - 1));
+public class Way_too_long_words {
+  public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        while(t-->=0){
+            String s = sc.nextLine();
+            // 10 se jyada wale and 1 and last ke beech men
+            int count =0;
+            
+                    if(s.length() >10){
+                        count = s.length()-2;
+                        System.out.println(s.charAt(0) + ""+count+ ""+s.charAt(s.length()-1)+"");
+                    }
+           else{
+               System.out.println(s);
+                    }
         }
- 
-}
- 
-out.flush();
-}
- 
-static class FastScanner {
-    private final BufferedReader br;
-    private StringTokenizer st;
- 
-    FastScanner(InputStream in) {
-        br = new BufferedReader(new InputStreamReader(in));
     }
  
-String next() throws IOException {
-    while (st == null || !st.hasMoreTokens()) {
-        String line = br.readLine();
-        if (line == null) return null;
-        st = new StringTokenizer(line);
-    }
-return st.nextToken();
-}
  
-int nextInt() throws IOException {
-    return Integer.parseInt(next());
-}
- 
-long nextLong() throws IOException {
-    return Long.parseLong(next());
-}
-}
 }
