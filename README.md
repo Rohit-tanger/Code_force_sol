@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 12 |
+| 26 | 12 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (16)
+- [implementation](#implementation) (17)
 - [math](#math) (3)
 - [sortings](#sortings) (4)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 - [two pointers](#two-pointers) (6)
 
 ---
@@ -86,6 +86,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
@@ -124,6 +125,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 1789B | [Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1789/B%20-%20Serval%20and%20Inversion%20Magic/solution.java) |
