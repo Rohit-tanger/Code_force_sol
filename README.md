@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 12 |
+| 31 | 12 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (21)
-- [math](#math) (3)
+- [implementation](#implementation) (22)
+- [math](#math) (4)
 - [sortings](#sortings) (4)
 - [strings](#strings) (9)
 - [two pointers](#two-pointers) (6)
@@ -107,6 +107,7 @@
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 | 1789B | [Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1789/B%20-%20Serval%20and%20Inversion%20Magic/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.java) |
 
 ### math
 
@@ -115,6 +116,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [Java 21](https://github.com/Rohuu03/Code_force_sol/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.java) |
 
 ### sortings
 
